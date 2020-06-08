@@ -1,3 +1,6 @@
+<?php
+require_once"verification.php"
+?>
 <!doctype html>
 <html lang="en">
   <head>
